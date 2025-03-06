@@ -11,5 +11,5 @@ Hi, My name is Xyryl joy Samorin a student at the City College of Angeles, study
 - **Elemtary:** Sapang Bato Elementary School
 
 ### My Projects
-- **Midterm Lab Task 1:** [Data Cleaning and Preparation using Excel](Midterm Task 1.md).
+- **Midterm Lab Task 1:** [Data Cleaning and Preparation using Excel](https://github.com/Xyyy24/Portfolio/blob/main/Midterm%20Task%201.md).
 - **Midterm Lab Task 2:**
