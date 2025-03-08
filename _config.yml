@@ -1,5 +1,7 @@
-title: EDM-Portfolio-Samorin
-logo : images/Prof.jpg
-remote_theme: pages-themes/minimal@v0.2.0
+title: My Portfolio
+logo: images/Prof.jpg
+description: City College Student
+show_downloads: true
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 jekyll-remote-theme
