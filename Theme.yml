@@ -1,0 +1,7 @@
+title: EDM PORTFOLIO
+  /* assets/css/style.css */
+  :root {
+    --color-primary: #ff69b4; /* Pink color */
+  }
+![Image](Prof.jpg)
+theme: minima
