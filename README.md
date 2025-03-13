@@ -13,4 +13,4 @@
 ### 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 - **Midterm Lab Task 1:** [Data Cleaning and Preparation using Excel](Midterm%20Task%201/README.md).
 - **Midterm Lab Task 2:** [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202/README.md).
-- **Midterm Lab Task 3:** [Creating PIVOT TABLE and DASHBOARD]
+- **Midterm Lab Task 3:** [Creating PIVOT TABLE and DASHBOARD](Midterm%20Task%203/README.md).
