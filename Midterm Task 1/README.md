@@ -1,22 +1,22 @@
 
-# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation 
-## STEP 1 Data Cleaning process
-- Load the raw file
-- Fit Column and row width and height
-- TRIM extra spaces
-- Remove NULL values
-- Remove Duplicates
-## STEP 2 Normalization 
-- Performed 1NF
-- Perform Table split using 2NF
-- Perform 3 NF
-- Mapped the Normalized tables as a Physical Data Model
-## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
+# 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟣 - 𝒟𝒶𝓉𝒶 𝒞𝓁𝑒𝒶𝓃𝒾𝓃𝑔 𝒶𝓃𝒹 𝒫𝓇𝑒𝓅𝒶𝓇𝒶𝓉𝒾𝑜𝓃 𝓊𝓈𝒾𝓃𝑔 𝐸𝓍𝒸𝑒𝓁
+​🇫​​🇴​​🇷​ ​🇹​​🇭​​🇮​​🇸​ ​🇹​​🇦​​🇸​​🇰​ ​🇼​​🇪​ ​🇦​​🇷​​🇪​ ​🇬​​🇮​​🇻​​🇪​​🇳​ ​🇦​ ​🇫​​🇱​​🇦​​🇹​ ​🇩​​🇦​​🇹​​🇦​ ​🇫​​🇷​​🇴​​🇲​ ​🇪​​🇽​​🇨​​🇪​​🇱​ (​🇸​​🇪​​🇪​ ​🇷​​🇦​​🇼​​🇫​​🇮​​🇱​​🇪​) ​🇦​​🇳​​🇩​ ​🇼​​🇪​ ​🇦​​🇷​​🇪​ ​🇹​​🇦​​🇸​​🇰​ ​🇹​​🇴​ ​🇵​​🇪​​🇷​​🇫​​🇴​​🇷​​🇲​ ​🇩​​🇦​​🇹​​🇦​ ​🇨​​🇱​​🇪​​🇦​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇵​​🇷​​🇪​​🇵​​🇦​​🇷​​🇦​​🇹​​🇮​​🇴​​🇳​
+## 𝒮𝒯𝐸𝒫 𝟣 𝒟𝒶𝓉𝒶 𝒞𝓁𝑒𝒶𝓃𝒾𝓃𝑔 𝓅𝓇𝑜𝒸𝑒𝓈𝓈
+- ​🇱​​🇴​​🇦​​🇩​ ​🇹​​🇭​​🇪​ ​🇷​​🇦​​🇼​ ​🇫​​🇮​​🇱​​🇪​
+- 🇫​​🇮​​🇹​ ​🇨​​🇴​​🇱​​🇺​​🇲​​🇳​ ​🇦​​🇳​​🇩​ ​🇷​​🇴​​🇼​ ​🇼​​🇮​​🇩​​🇹​​🇭​ ​🇦​​🇳​​🇩​ ​🇭​​🇪​​🇮​​🇬​​🇭​​🇹​
+- T​🇷​​🇮​​🇲​ ​🇪​​🇽​​🇹​​🇷​​🇦​ ​🇸​​🇵​​🇦​​🇨​​🇪​​🇸​
+- ​🇷​​🇪​​🇲​​🇴​​🇻​​🇪​ ​🇳​​🇺​​🇱​​🇱​ ​🇻​​🇦​​🇱​​🇺​​🇪​​🇸​
+- ​🇷​​🇪​​🇲​​🇴​​🇻​​🇪​ ​🇩​​🇺​​🇵​​🇱​​🇮​​🇨​​🇦​​🇹​​🇪​​🇸​
+## 𝒮𝒯𝐸𝒫 𝟤 𝒩𝑜𝓇𝓂𝒶𝓁𝒾𝓏𝒶𝓉𝒾𝑜𝓃
+- P🇵​​🇪​​🇷​​🇫​​🇴​​🇷​​🇲​​🇪​​🇩​ 1​🇳​​🇫​
+- P​🇵​​🇪​​🇷​​🇫​​🇴​​🇷​​🇲​ ​🇹​​🇦​​🇧​​🇱​​🇪​ ​🇸​​🇵​​🇱​​🇮​​🇹​ ​🇺​​🇸​​🇮​​🇳​​🇬​ ​2🇳​​🇫 
+- ​🇵​​🇪​​🇷​​🇫​​🇴​​🇷​​🇲​ 3🇳​​🇫
+- 🇲​​🇦​​🇵​​🇵​​🇪​​🇩​ ​🇹​​🇭​​🇪​ ​🇳​​🇴​​🇷​​🇲​​🇦​​🇱​​🇮​​🇿​​🇪​​🇩​ ​🇹​​🇦​​🇧​​🇱​​🇪​​🇸​ ​🇦​​🇸​ ​🇦​ ​🇵​​🇭​​🇾​​🇸​​🇮​​🇨​​🇦​​🇱​ ​🇩​​🇦​​🇹​​🇦​ ​🇲​​🇴​​🇩​​🇪​​🇱​
+## 𝒮𝒯𝐸𝒫 𝟥 𝐻𝑒𝓇𝑒'𝓈 𝓉𝒽𝑒 𝓈𝒸𝓇𝑒𝑒𝓃𝓈𝒽𝑜𝓉 𝑜𝒻 𝓂𝓎 𝑜𝓊𝓉𝓅𝓊𝓉 𝒷𝑒𝒻𝑜𝓇𝑒 𝐼 𝓈𝓉𝒶𝓇𝓉𝑒𝒹 𝒹𝒶𝓉𝒶 𝒸𝓁𝑒𝒶𝓃𝒾𝓃𝑔 (𝒮𝑒𝑒 𝓈𝒸𝓇𝑒𝑒𝓃𝓈𝒽𝑜𝓉)
 ![image](https://github.com/user-attachments/assets/54d0a889-9936-41e9-8f64-3b5b2255bed4)
 
-## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+## 𝒮𝒯𝐸𝒫 𝟦 𝐻𝑒𝓇𝑒'𝓈 𝓉𝒽𝑒 𝓈𝒸𝓇𝑒𝑒𝓃𝓈𝒽𝑜𝓉 𝑜𝒻 𝓂𝓎 𝑜𝓊𝓉𝓅𝓊𝓉 𝒶𝒻𝓉𝑒𝓇 𝐼 𝓈𝓉𝒶𝓇𝓉𝑒𝒹 𝒹𝒶𝓉𝒶 𝒸𝓁𝑒𝒶𝓃𝒾𝓃𝑔 (𝒮𝑒𝑒 𝓈𝒸𝓇𝑒𝑒𝓃𝓈𝒽𝑜𝓉)
 ![image](https://github.com/user-attachments/assets/fcb20b8e-602d-4e76-9f35-0514b1b8ceca)
 
-## Here's the Physical Data Model
+## 𝐻𝑒𝓇𝑒'𝓈 𝓉𝒽𝑒 𝒫𝒽𝓎𝓈𝒾𝒸𝒶𝓁 𝒟𝒶𝓉𝒶 𝑀𝑜𝒹𝑒𝓁
 ![image](https://github.com/user-attachments/assets/e3f1668e-8a2a-4e1d-8be9-6a1c9e20871e)
