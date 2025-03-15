@@ -49,3 +49,6 @@ The slicers should be functional and interactive
 
 ### Pivot Table
 ![Screenshot 2025-03-15 114826](https://github.com/user-attachments/assets/8292322b-935a-4ae7-ab22-3aa670d1161a)
+
+### Query Dependencies
+![final](https://github.com/user-attachments/assets/ff49a166-2525-44ef-a7ba-d54964d61e78)
