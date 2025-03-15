@@ -45,4 +45,5 @@ Checked query dependencies to confirm correct relationships.
 
 
 ### Query Dependencies
-<img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
+![final](https://github.com/user-attachments/assets/b316355e-d1c9-4b41-b183-e17fe2c1638e)
+
