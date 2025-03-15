@@ -35,15 +35,15 @@ Checked query dependencies to confirm correct relationships.
 ![cleaned](https://github.com/user-attachments/assets/db1912be-ee74-40c7-8924-dc2717f0da06)
 
 ### 🍒𝒮𝒶𝓁 𝐵𝓎 𝑅𝑜𝓁𝑒 𝒯𝓎𝓅𝑒 𝒟𝓊𝓅
-![02](https://github.com/user-attachments/assets/813828ae-153c-40df-85f2-1dc2a421e3c6)
+![role tye](https://github.com/user-attachments/assets/bd456f0d-78b7-4f39-bae7-0545e353c990)
 
 
 ### 🍒𝒮𝒶𝓁 𝐵𝓎 𝑅𝑜𝓁𝑒 𝒮𝒾𝓏𝑒 𝑅𝑒𝒻
-![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
+![role size](https://github.com/user-attachments/assets/2b5fac9b-9e85-4c01-b595-74b36714356e)
 
 
 ### 🍒𝒮𝒶𝓁 𝐵𝓎 𝒮𝓉𝒶𝓉𝑒 𝑅𝑒𝒻
-![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
+![sal by state](https://github.com/user-attachments/assets/4e2a634b-447f-43d9-8733-7b2796e360c4)
 
 
 ### 🍒𝒬𝓊𝑒𝓇𝓎 𝒟𝑒𝓅𝑒𝓃𝒹𝑒𝓃𝒸𝒾𝑒𝓈
