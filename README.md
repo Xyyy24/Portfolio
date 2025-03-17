@@ -8,6 +8,6 @@
  **🌸 𝐸𝓁𝑒𝓂𝓉𝒶𝓇𝓎:** ​🇸​​🇦​​🇵​​🇦​​🇳​​🇬​ ​🇧​​🇦​​🇹​​🇴​ ​🇪​​🇱​​🇪​​🇲​​🇪​​🇳​​🇹​​🇦​​🇷​​🇾​ ​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​  
 
 ### 𝐸𝒟𝑀-𝒫𝒪𝑅𝒯𝐹𝒪𝐿𝐼𝒪
-  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟣:** [Data Cleaning and Preparation using Excel](Midterm%20Task%201/README.md).  
-  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟤:** [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%202/README.md).  
-  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟥:** [Creating PIVOT TABLE and DASHBOARD](Midterm%20Task%203/README.md).
+  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟣:** [𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐥](Midterm%20Task%201/README.md).  
+  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟤:** [𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐏𝐎𝐖𝐄𝐑 𝐐𝐔𝐄𝐑𝐘](Midterm%20Task%202/README.md).  
+  **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟥:** [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐏𝐈𝐕𝐎𝐓 𝐓𝐀𝐁𝐋𝐄 𝐚𝐧𝐝 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃](Midterm%20Task%203/README.md).
