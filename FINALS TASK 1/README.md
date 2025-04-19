@@ -1,4 +1,5 @@
-# 🌸𝓣𝓐𝓢𝓚 1
+# 🌸𝓣𝓐𝓢𝓚 1  Events Management DB 
+
 ## 🍬𝓔𝓡𝓓 𝓜𝓞𝓓𝓔𝓛
 ![xyyerd](https://github.com/user-attachments/assets/8f7814e5-184c-4670-865e-cd945415e212)
 
