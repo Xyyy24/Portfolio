@@ -13,7 +13,8 @@
   **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟤:** [𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐏𝐎𝐖𝐄𝐑 𝐐𝐔𝐄𝐑𝐘](https://github.com/Xyyy24/Portfolio/blob/Xyyy24-patch-3/Midterm%20Task%202/README.md).  
   **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟥:** [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐏𝐈𝐕𝐎𝐓 𝐓𝐀𝐁𝐋𝐄 𝐚𝐧𝐝 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃](https://github.com/Xyyy24/Portfolio/blob/Xyyy24-patch-3/Midterm%20Task%203/README.md).
 
-  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 1:** [𝗠𝘆 𝗦𝗤𝗟 𝗕𝗮𝘀𝗶𝗰𝘀](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%201/README.md)
-  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 2:** [𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗘𝗥 𝗶𝗻𝘁𝗼 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗮𝗯𝗹𝗲𝘀]
-  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 3:** [𝗧𝗮𝗯𝗹𝗲 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻]
+  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 1:** [𝗠𝘆 𝗦𝗤𝗟 𝗕𝗮𝘀𝗶𝗰𝘀](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%201/README.md)  
+  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 2:** [𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗘𝗥 𝗶𝗻𝘁𝗼 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗮𝗯𝗹𝗲𝘀]  
+  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 3:** [𝗧𝗮𝗯𝗹𝗲 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻]  
+
 ![image](https://github.com/user-attachments/assets/f007ba02-460d-4455-9193-2cc39dffde0e)
