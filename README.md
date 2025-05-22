@@ -16,10 +16,10 @@
   **📂 𝑀𝒾𝒹𝓉𝑒𝓇𝓂 𝐿𝒶𝒷 𝒯𝒶𝓈𝓀 𝟥:** [𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐏𝐈𝐕𝐎𝐓 𝐓𝐀𝐁𝐋𝐄 𝐚𝐧𝐝 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃](https://github.com/Xyyy24/Portfolio/blob/Xyyy24-patch-3/Midterm%20Task%203/README.md).
 
 ### ૮ • ﻌ - ა 𝔽𝕀ℕ𝔸𝕃𝕊   
-  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 1:** [𝗠𝘆 𝗦𝗤𝗟 𝗕𝗮𝘀𝗶𝗰𝘀](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%201/README.md).  
+  **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 1:** [𝐌𝐲 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐜𝐬](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%201/README.md).  
   **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 2:** [𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗘𝗥 𝗶𝗻𝘁𝗼 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗧𝗮𝗯𝗹𝗲𝘀](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%202/README.md).  
   **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 3:** [𝗧𝗮𝗯𝗹𝗲 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%203/README.md).  
   **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 4:** [𝗨𝘀𝗶𝗻𝗴 𝗦𝗘𝗟𝗘𝗖𝗧 𝘀𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%204/README.md).  
   **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 5:** [𝐔𝐬𝐢𝐧𝐠 𝐒𝐐𝐋 𝐯𝐢𝐞𝐰𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐞𝐝 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐞𝐝 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬](https://github.com/Xyyy24/Portfolio/blob/Xyyyy24-Main/FINALS%20TASK%205/README.md).  
- **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 5:** [𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐏𝐑𝐀𝐂𝐓𝐈𝐂𝐄](https://github.com/Xyyy24/Portfolio/tree/Xyyyy24-Main/FINALS%20TASK%206#readme).  
+ **📁 𝓕𝓲𝓷𝓪𝓵𝓼 𝓛𝓪𝓫 𝓽𝓪𝓼𝓴 5:** [𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞](https://github.com/Xyyy24/Portfolio/tree/Xyyyy24-Main/FINALS%20TASK%206#readme).  
 ![image](https://github.com/user-attachments/assets/7358e2a2-5059-4b66-856f-b4a4c783d069)
