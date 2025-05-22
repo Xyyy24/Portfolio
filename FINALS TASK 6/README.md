@@ -1,16 +1,16 @@
 # 𝓜𝓸𝓷𝓰𝓸𝓓𝓑 𝓟𝓻𝓪𝓬𝓽𝓲𝓬𝓮 𝓣𝓪𝓼𝓴: 𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽 𝓘𝓷𝓼𝓮𝓻𝓽𝓲𝓸𝓷, 𝓠𝓾𝓮𝓻𝔂𝓲𝓷𝓰 & 𝓜𝓸𝓭𝓲𝓯𝓲𝓬𝓪𝓽𝓲𝓸𝓷  
 > This task demonstrates essential CRUD operations in MongoDB using the mongo shell. Students practice creating databases, inserting documents, performing queries, updates, deletions, and text searches on a movies collection.
 
-# 🗃️Task Step-by-Step
+# 🗃️𝕋𝕒𝕤𝕜 𝕊𝕥𝕖𝕡-𝕓𝕪-𝕊𝕥𝕖𝕡
 
-## Create database
+## ᴄʀᴇᴀᴛᴇ ᴅᴀᴛᴀʙᴀꜱᴇ
 - Connect to a running mongo instance, use a database named `mongo_practice`.
 
 - use *mongo_practice*
 
 ![image](https://github.com/user-attachments/assets/f6eecad4-bc48-4666-8eb2-9f40683565f9)
 
-## Insert Documents
+## ɪɴꜱᴇʀᴛ ᴅᴏᴄᴜᴍᴇɴᴛꜱ
 
 -Insert the following documents into a `movies` collection.
 
@@ -108,7 +108,7 @@ title : Avatar
 
 ![image](https://github.com/user-attachments/assets/baeb858b-42a9-4157-bf27-91bcf5166ce3)
 
-## Query / Find Documents
+## Qᴜᴇʀʏ / ꜰɪɴᴅ ᴅᴏᴄᴜᴍᴇɴᴛꜱ
 
 - query the `movies` collection to
 
@@ -152,7 +152,7 @@ db.movies.find({$or:[{year:{$gt:"2010"}},{year: {$lt:"2000"}}]})
 ![image](https://github.com/user-attachments/assets/fa451371-a1bd-4e8e-afe6-1b5ede363b9d)
 
 
-## Update Documents
+## ᴜᴘᴅᴀᴛᴇ ᴅᴏᴄᴜᴍᴇɴᴛꜱ
 
 1. add a synopsis to "The Hobbit: An Unexpected Journey" : "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."
 ```
@@ -176,7 +176,7 @@ db.movies.update({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push:{actors:"Sam
 ![image](https://github.com/user-attachments/assets/6261edfb-b473-44fb-b884-da092ffdb4b7)
 
 
-## Text Search
+## ᴛᴇxᴛ ꜱᴇᴀʀᴄʜ
 
 1. find all movies that have a synopsis that contains the word "Bilbo"
 ```
@@ -209,7 +209,7 @@ db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]}
 ```
 ![image](https://github.com/user-attachments/assets/cb9494fc-e5cd-44e0-a985-03d42a7d7e8a)
 
-## Delete Documents
+## ᴅᴇʟᴇᴛᴇ ᴅᴏᴄᴜᴍᴇɴᴛꜱ
 
 1. delete the movie "Pee Wee Herman's Big Adventure"
 ```
